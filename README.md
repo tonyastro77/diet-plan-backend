@@ -4,7 +4,7 @@ You can check this webpage deployed [here:](https://fathomless-fortress-72861.he
 
 ## Application
 
-This Webpage aims to collect food nutritional values from the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight. Upon starting, the webpage will requested the user to login or create a new user which then redirects to the login page after completion.
+This Webpage aims to collect food nutritional values from the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight. Upon starting, the webpage will request the user to login or create a new user which then redirects to the login page after completion.
 
 ### `Home Page`
 
