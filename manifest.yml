@@ -1,0 +1,7 @@
+applications:
+- path: .
+  name: tonyastro-diet-plan
+  buildpack: sdk-for-nodejs
+  memory: 256M
+  instances: 1
+  random-route: true

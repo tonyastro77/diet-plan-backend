@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/foods
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImF2aWxsZWdhcyIsImlkIjoiNjA4ODI4NzEyYzE5ODMxMjljNmQ3OWNlIiwiaWF0IjoxNjE5NjI3NjE3fQ.zzhJFuWZckf6yfm5aShtpyzs5Imw4KA34F0httGQ-ig
+
+{
+    "name": "bread",
+    "calories": 240,
+    "fat": 3,
+    "carbohydrates": 20,
+    "protein": 2,
+    "quantity": 1
+}
