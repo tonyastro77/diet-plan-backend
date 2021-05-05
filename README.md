@@ -33,7 +33,7 @@ As an example, if today your weight is 87, then tomorrow could 86 and you can up
 
 #### `Food Database`
 
-Located from the tab 'Food Database' in the side bar. This table differs from the Home Page in the fact that this table is available for all the users. This table keeps record of all the food added by users and has a search field to located any food based on a matching keyword. It contains a 'Plus' button that will lead to an already filled form to quickly add that type of food for the current day's food track information.
+Located from the tab 'Food Database' in the side bar. This table differs from the Home Page in the fact that this table is available for all the users. This table keeps record of all the food added by users and has a search field to locate any food based on a matching keyword. It contains a 'Plus' button that will lead to an already filled form to quickly add that type of food for the current day's food track information.
 
 As you will notice, the food is sorted by name and easily available which is one of the most powerful features of this application as it helps the user to quickly add previous food that could turn out to be repetitive user actions otherwise.
 
