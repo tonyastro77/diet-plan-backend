@@ -6,9 +6,30 @@ You can check this webpage deployed [here:](https://fathomless-fortress-72861.he
 
 This Webpage aims to collect food nutritional values from the user and display information regarding the total calories eaten versus the suggested calories given by the user personal information such as height, weight, how active the user is and whether the user is aiming to lose, gain or maintain weight. Upon starting, the webpage will request the user to login or create a new user which then redirects to the login page after completion.
 
-### `Home Page`
+### `Features`
+
+## `Home Page`
 
 The Home Page, which is the page where the user is taken after logging in, contains a chart, user progress and current day's (today) food values added by the user, either a complete new food information by pressing ADD in the table or selected from the already existant food in the Main Database by selecting the tab  "Food Database" from the left side bar and then adding a food value from there. All this is will be visible back in the Home page.
+
+## `Progress Chart`
+
+This chart located at the top left in the Home Page displays Total Number of Calories vs Total Suggested Calories by Date. The total suggested calories are calculated based on the user information available and modifiable from the tab 'Personal Information'. The formula consists of BMR (Basal Metabollic Rate) which is determined by the gender as a variable. Then the level of activity and whether the user aims to lose, keep or gain weight are constants that have an influence in the final result.
+
+The total number of calories are calculated as the sum of all the food calories for the current day. Note the quantity of each food multiplies the final result. For example, 2 cookies quantity have a modifier of 2 times the calories shown in the row of that specific cookie information.
+
+## `Progress Information`
+
+This is located at the top right in the Home Page. It displays the current day's date, suggested calories and total calories based on the information added so far in the table below.
+
+## `Food Table`
+
+This table is located at the bottom of the Home Page. It displays the current day's food information added as part of the diet. Here you have a buttons to edit, delete the existing row, and the 'Add' button to add a complete information of any specific food that has not been added previously. Please note that you can skip all this if you already created a specific food information on a previously day by checking the 'Food Database' tab.
+
+## `Personal Information`
+
+Here you will see a single row containing the user's information such as Name (created when first signing up the account), the age, height, weight, gender, activity (how active the user is at exercising), goal (lose, keep or gain weight) which are modifiable and then will update the 'total amount of suggested calories' later.
+As an example, if today your weight is 87, then tomorrow could 86 and you can update this information. This will change the information of the total ammount of suggested calories but will not erase the previous days information so you can keep track of changes throughout an entire week, month, year.
 
 ### `Features`
 
