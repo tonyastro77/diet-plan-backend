@@ -22,14 +22,20 @@ The total number of calories are calculated as the sum of all the food calories 
 
 This is located at the top right in the Home Page. It displays the current day's date, suggested calories and total calories based on the information added so far in the table below.
 
-####`Food Table`
+#### `Food Table`
 
 This table is located at the bottom of the Home Page. It displays the current day's food information added as part of the diet. Here you have a buttons to edit, delete the existing row, and the 'Add' button to add a complete information of any specific food that has not been added previously. Please note that you can skip all this if you already created a specific food information on a previously day by checking the 'Food Database' tab.
 
-####`Personal Information`
+#### `Personal Information`
 
-Here you will see a single row containing the user's information such as Name (created when first signing up the account), the age, height, weight, gender, activity (how active the user is at exercising), goal (lose, keep or gain weight) which are modifiable and then will update the 'total amount of suggested calories' later.
+Located from the tab 'Personal Information' in the side bar. Here you will see a single row containing the user's information such as Name (created when first signing up the account), the age, height, weight, gender, activity (how active the user is at exercising), goal (lose, keep or gain weight) which are modifiable and then will update the 'total amount of suggested calories' later.
 As an example, if today your weight is 87, then tomorrow could 86 and you can update this information. This will change the information of the total ammount of suggested calories but will not erase the previous days information so you can keep track of changes throughout an entire week, month, year.
+
+#### `Food Database`
+
+Located from the tab 'Food Database' in the side bar. This table differs from the Home Page in the fact that this table is available for all the users. This table keeps record of all the food added by users and has a search field to located any food based on a matching keyword. It contains a 'Plus' button that will lead to an already filled form to quickly add that type of food for the current day's food track information.
+
+As you will notice, the food is sorted by name and easily available which is one of the most powerful features of this application as it helps the user to quickly add previous food that could turn out to be repetitive user actions otherwise.
 
 ### `Technology used`
 
